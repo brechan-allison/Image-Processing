@@ -1,5 +1,5 @@
 # Image-Processing
-Applies sharpening and smoothing effects to a selected image
+Applies sharpening, smoothing, and other effects to a selected image
 
 ![blackAndWhite](blackAndWhite.png)
 ![edgeMarr](edgeMarr.png)
